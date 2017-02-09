@@ -1,0 +1,22 @@
+{
+  "name": "yandex-money",
+  "version": "0.0.1",
+  "description": "Yandex.Money API for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "request": "^2.79.0"
+  },
+  "keywords": [
+    "yandex",
+    "money"
+  ],
+  "author": {
+    "name": "Oleg Polyakov",
+    "email": "olegpolyakov@outlook.com"
+  },
+  "repository": "olegpolyakov/yandex-money",
+  "license": "MIT"
+}
